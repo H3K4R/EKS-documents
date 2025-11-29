@@ -162,5 +162,3 @@ mychart/
 
 ---
 
-
-You can now directly paste this into your GitHub README.
