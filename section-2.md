@@ -1,4 +1,4 @@
-# **Section 2 – Kubernetes Scaling **
+# Section 2 – Kubernetes Scaling
 
 > **Note:** Diagrams cannot be embedded as images inside the canvas editor.
 > I have converted your notebook diagrams into clean **ASCII diagrams** so your GitHub README still looks professional.
@@ -167,4 +167,3 @@ EC2: m5.2xlarge
 
 ---
 
-# **End of Section 2 **
